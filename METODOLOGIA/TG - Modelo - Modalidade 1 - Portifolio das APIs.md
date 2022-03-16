@@ -1,35 +1,46 @@
 #### Gabriel Oliveira Sana
+RA: 
 
-# Olá, sou Gabriel 
+# Portifólio de API
 
-Estudante de computação, Banco de Dados na Fatec - SJC
+Olá, meu nome é Gabriel, sou Estudante de Banco de Dados na Fatec - SJC. Durante o desenvolvimento dos API's aprendi muito, tanto Hard Skills quanto Soft Skills e foi uma experiencia muito promissora, levando os alunos a ter contato direto com o cenário atual de trabalho. Ao enfrentar esses desafios aprendi que o mais importante é a persistencia e o foco, para completar as atividades designadas. 
+
 # Meus Projetos
 
 #### Em 2020-2
-Trabalhei no projeto da API Vantec com o Parceiro Acadêmico Professor Fabiano Sabha<br> Foi solicitado o desenvolvimento de um aplicativo que tem o objetivo de facilitar a vida de motoristas autonomos e passageiros fixos com rotas determinadas a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no âmbito escolar, como no profissional. <br>
+Trabalhei no projeto da API ***Vantec*** com o Parceiro Acadêmico Professor Fabiano Sabha<br> Foi solicitado o desenvolvimento de um aplicativo que tem o objetivo de facilitar a vida de motoristas autonomos e passageiros fixos com rotas determinadas a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no âmbito escolar, como no profissional. <br>
 [link para o GIT](https://gitlab.com/vanzeiros-do-vale/vantec)
 
 #### Tecnologias Utilizadas
-Git 
-Gitlab
-FIGMA
-App Inventor
-Firebase
+- Git 
+- Gitlab
+- FIGMA
+- App Inventor
+- Firebase
+- Metodologia Scrum
 
 ## Contribuições Pessoais
-Auxiliei na criação de telas, como cadastro  e login. Também realizei a criação dos vídeos para a apresentação do projeto.
-
+### Auxiliei na criação :
+- Tela de grupos de passageiros, realizadas no app inventor; 
+- Tela de detalhes de grupos;
+- Criação do grupo dentro do app e inserção de passageiro; 
+- Tela de viagem em andamento, pelo figma;
+- Inclusão do botão de deslogar dentro da tela "Meu Perfil".
 #### Hard Skills Efetivamente Desenvolvidas
-App Inventor, Figma
+- App Inventor
+- Figma
+- Metodologia Scrum
 
 #### Soft Skills Efetivamente Desenvolvidas
-Proatividade, buscando informações para conseguir realizar a programação e design utilizando o App Inventor<br> 
+- Proatividade<br> 
+- Trabalho em equipe
 
 
 #### Em 2021-1
-Trabalhei no projeto da API com o Parceiro Acadêmico Visiona.<br>
+Trabalhei no projeto da API ***ConsultCar*** com o Parceiro Acadêmico Visiona.<br>
+O objetivo do projeto era criar uma ferramenta com o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
 .<br>
-[link para o GIT](https://github.com/equipe-tetris/ConsultCAR/blob/master/README.md)
+[link para o GIT](https://github.com/equipe-tetris/ConsultCAR/edit/master/README.md)
 
 #### Tecnologias Utilizadas
 Git
@@ -55,15 +66,15 @@ Trabalhei no projeto da API com o Parceiro Acadêmico IACIT<br> Percebemos, cada
 [link para o GIT](https://github.com/equipe-tetris/scrum-cloud-frontend, https://github.com/equipe-tetris/scrum-cloud-backend )
 
 #### Tecnologias Utilizadas
-Git
-GitHub
-IDE Intellij || Backend -> Linguagem de Programação: Java
-IDE Vs Code || Frontend -> Linguagens : Marcação -> HTML5, Estilização -> CSS3, Programação -> Javascript
-BootStrap
-ReactJS
-Hibernate
-Spring Framework
-Banco de Dados: MySQL
+- Git
+- GitHub
+- IDE Intellij || Backend -> Linguagem de Programação: Java
+- IDE Vs Code || Frontend -> Linguagens : Marcação -> HTML5, Estilização -> CSS3, Programação -> Javascript
+- BootStrap
+- ReactJS
+- Hibernate
+- Spring Framework
+- Banco de Dados: MySQL
 
 ## Contribuições Pessoais
 
@@ -105,9 +116,6 @@ Nuvem Distribuída
 ## Contatos
 * [GIT](https://www.git.com)
 * [LinkedIn](https://www.linkedin.com)
-
-
-
 
 
 
