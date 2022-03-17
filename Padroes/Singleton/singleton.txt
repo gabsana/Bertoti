@@ -2,10 +2,9 @@ public class Main {
     public static void main(String[] args) {
         
         Funcionario funcionario1, funcionario2, funcionario3;
-        //reitor1 = new Reitor(); N„o permite instanciar, contrutor privado
 
         funcionario2 = Funcionario.obterInstancia();
-        funcionario2.setarNome("Jo„o");
+        funcionario2.setarNome("Jo√£o");
         funcionario3 = Funcionario.obterInstancia();
   
         if(funcionario2 == funcionario3){
