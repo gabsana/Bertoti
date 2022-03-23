@@ -3,6 +3,7 @@ RA:
 
 # Portifólio de API
 
+
 Olá, meu nome é Gabriel, sou Estudante de Banco de Dados na Fatec - SJC. Durante o desenvolvimento dos API's aprendi muito, tanto Hard Skills quanto Soft Skills e foi uma experiência muito promissora, levando os alunos a ter contato direto com o cenário atual de trabalho. Ao enfrentar esses desafios aprendi que o mais importante é a persistência e o foco, para completar as atividades designadas. 
 
 # Meus Projetos
