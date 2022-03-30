@@ -67,7 +67,8 @@ Auxiliei na parte de organização e na documentação do projeto, sem muitas gr
 #### Em 2021-2
 Trabalhei no projeto da API com o Parceiro Acadêmico IACIT<br> Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.. <br>
-[link para o GIT](https://github.com/equipe-tetris/scrum-cloud-frontend, https://github.com/equipe-tetris/scrum-cloud-backend )
+[link para o GIT frontend](https://github.com/equipe-tetris/scrum-cloud-frontend ) <br>
+[link para o GIT backend](https://github.com/equipe-tetris/scrum-cloud-backend )
 
 #### Tecnologias Utilizadas
 - Git
@@ -91,34 +92,31 @@ Linguagem de programação JavaScript e TypeScript
 - Autonomia
 
 #### Em 2022-1
-Trabalhei no projeto da API com o Parceiro Acadêmico Oracle.<br>  <br>
+Trabalhei no projeto da API com o Parceiro Acadêmico Oracle.<br>  O objetivo do projeto era criar uma aplicação que filtrasse os dados de produtos vendidos em uma determinada loja e atrelar segmentos nessa filtragem, tornando mais facil as decisões dos gerentes de loja em relação aos produtos que são mais vendidos, quais formas de pagamento são utilizadas etc. <br>
 [link para o GIT](https://github.com/EquipeFatec)
 
 #### Tecnologias Utilizadas
-Git, Gitlab, FIGMA, App Inventor, Firebase.
-
+- Git
+- Vue
+- Eclipse IDLE
+- 
 ## Contribuições Pessoais
-
+No projeto, auxilie na parte do Backend.
 
 #### Hard Skills Efetivamente Desenvolvidas
 Python, CSS, Html
 
 #### Soft Skills Efetivamente Desenvolvidas
-Autonomia<br>
-Ainda assim, existem dúvidas a respeito de como a alta necessidade de integridade representa uma abertura para a melhoria dos equipamentos pré-especificados.
-
+-Autonomia
+-Trabalho em equipe
+-Agilidade
+-
 
 
 ## Meus Principais Conhecimentos
-Edge AI
-AI Engineering
-IOB
-Hiperautomação
-Segurança Modular
-Nuvem Distribuída
 
 ## Contatos
-* [GIT](https://www.git.com)
+* [GIT](https://github.com/gabsana)
 * [LinkedIn](https://www.linkedin.com)
 
 
