@@ -13,7 +13,7 @@ Trabalhei no projeto da API ***Vantec*** com o Professor Fabiano Sabha<br> Foi s
 [link para o GIT](https://gitlab.com/vanzeiros-do-vale/vantec)
 
 #### Tecnologias Utilizadas
-- Git 
+- Git  
 - Gitlab
 - FIGMA
 - App Inventor
@@ -64,7 +64,7 @@ Auxiliei na parte de organização e na documentação do projeto, sem muitas gr
 - Agilidade;
 - Trabalho em equipe;
 
-#### Em 2021-2
+#### Em 2021-2 
 Trabalhei no projeto da API com o Parceiro Acadêmico IACIT<br> Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.. <br>
 [link para o GIT frontend](https://github.com/equipe-tetris/scrum-cloud-frontend ) <br>
