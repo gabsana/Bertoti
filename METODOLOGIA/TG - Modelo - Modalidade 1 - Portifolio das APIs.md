@@ -4,14 +4,14 @@ RA:
 # Portifólio de API
 
 
-Olá, meu nome é Gabriel, sou Estudante de Banco de Dados na Fatec - SJC. Durante o desenvolvimento dos API's aprendi muito, tanto Hard Skills quanto Soft Skills e foi uma experiência muito promissora, levando os alunos a ter contato direto com o cenário atual de trabalho. Ao enfrentar esses desafios aprendi que o mais importante é a persistência e o foco, para completar as atividades designadas. 
+Olá, meu nome é Gabriel, sou Estudante de Banco de Dados na Fatec - SJC. Durante o desenvolvimento dos API's aprendi muito, desenvolvi tanto Hard Skills quanto Soft Skills e foi uma experiência muito boa, levando os alunos a terem contato direto com o cenário atual de trabalho. Ao enfrentar esses desafios aprendi que o mais importante é a persistência e o foco, para completar as atividades designadas. 
 
 # Meus Projetos
 
 #### Em 2020-2
-Trabalhei no projeto da API ***Vantec*** com o Professor Fabiano Sabha<br> Foi solicitado o desenvolvimento de um aplicativo que tem o objetivo de facilitar a vida de motoristas autônomos e passageiros fixos com rotas determinadas a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no âmbito escolar, como no profissional. <br>
-[link para o GIT](https://gitlab.com/vanzeiros-do-vale/vantec)
+Trabalhei no projeto da API ***Vantec*** com o Professor Fabiano Sabha<br> Foi solicitado o desenvolvimento de um aplicativo que tem o objetivo de facilitar a vida de motoristas autônomos e passageiros fixos com rotas determinadas a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no âmbito escolar, como no profissional. <br> 
 
+[<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/V_VanTec.jpg" /></center>](https://gitlab.com/vanzeiros-do-vale/vantec)
 #### Tecnologias Utilizadas
 - Git  
 - Gitlab
@@ -38,10 +38,10 @@ Trabalhei no projeto da API ***Vantec*** com o Professor Fabiano Sabha<br> Foi s
 
 
 #### Em 2021-1
-Trabalhei no projeto da API ***ConsultCar*** com o Parceiro Acadêmico Visiona.<br>
+Trabalhei no projeto da API ***ConsultCar*** com o Parceiro Acadêmico  ![img_visiona](https://github.com/gabsana/Bertoti/blob/main/imagens/Logo_Visiona.png)<br>
 O objetivo do projeto era criar uma ferramenta com o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural.
 .<br>
-[link para o GIT](https://github.com/equipe-tetris/ConsultCAR)
+[<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/LogoConsultCAR_50px.png" /></center>](https://github.com/equipe-tetris/ConsultCAR)
 
 #### Tecnologias Utilizadas
 - Git
@@ -65,8 +65,9 @@ Auxiliei na parte de organização e na documentação do projeto, sem muitas gr
 - Trabalho em equipe;
 
 #### Em 2021-2 
-Trabalhei no projeto da API com o Parceiro Acadêmico IACIT<br> Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
-Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.. <br>
+Trabalhei no projeto da API ***ScrumCloud*** com o Parceiro Acadêmico   ![img_iacit](https://github.com/gabsana/Bertoti/blob/main/imagens/iacit.jpg)<br> Desenvolver uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+A aplicação realizada permite o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.. <br>
+![](https://github.com/gabsana/Bertoti/blob/main/imagens/icon-scrumcloud.png)<br>
 [link para o GIT frontend](https://github.com/equipe-tetris/scrum-cloud-frontend ) <br>
 [link para o GIT backend](https://github.com/equipe-tetris/scrum-cloud-backend )
 
@@ -92,8 +93,9 @@ Linguagem de programação JavaScript e TypeScript
 - Autonomia
 
 #### Em 2022-1
-Trabalhei no projeto da API com o Parceiro Acadêmico Oracle.<br>  O objetivo do projeto era criar uma aplicação que filtrasse os dados de produtos vendidos em uma determinada loja e atrelar segmentos nessa filtragem, tornando mais facil as decisões dos gerentes de loja em relação aos produtos que são mais vendidos, quais formas de pagamento são utilizadas etc. <br>
-[link para o GIT](https://github.com/EquipeFatec)
+Trabalhei no projeto da API ***HEY ALEXIA*** com o Parceiro Acadêmico ![oracle](https://github.com/gabsana/Bertoti/blob/main/imagens/oracle.jpeg)<br>  O objetivo do projeto era criar uma aplicação que filtrasse os dados de produtos vendidos em uma determinada loja e atrelar segmentos nessa filtragem, tornando mais facil as decisões dos gerentes de loja em relação aos produtos que são mais vendidos, quais formas de pagamento são utilizadas etc. <br>
+
+[<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/HEY_ALEXIA.png" /></center>](https://github.com/EquipeFatec)
 
 #### Tecnologias Utilizadas
 - Git
