@@ -124,8 +124,9 @@ No projeto, auxilie na parte do Backend.
 ## Meus Principais Conhecimentos
 
 ## Contatos
-* [GIT](https://github.com/gabsana)
-* [LinkedIn](https://www.linkedin.com)
+ [<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/icons8-github-30.png" /></center>](https://github.com/gabsana)
+ [<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/linkedin.png" /></center>](https://www.linkedin.com/gabrielsana)
+
 
 
 
