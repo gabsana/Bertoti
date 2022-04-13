@@ -96,7 +96,7 @@ Auxiliei na parte do Frontend no projeto.
 - Autonomia.
 
 #### Em 2022-1
-Trabalhei no projeto da API ***HEY ALEXIA*** com o Parceiro Acadêmico ![oracle](https://github.com/gabsana/Bertoti/blob/main/imagens/oracle.jpeg)<br>	:dart:  O objetivo do projeto era criar uma aplicação que filtrasse os dados de produtos vendidos em uma determinada loja e atrelar segmentos nessa filtragem, tornando mais facil as decisões dos gerentes de loja em relação aos produtos que são mais vendidos, quais formas de pagamento são utilizadas etc. <br>
+Trabalhei no projeto da API ***HEY ALEXIA*** com o Parceiro Acadêmico ![oracle](https://github.com/gabsana/Bertoti/blob/main/imagens/oracle.jpeg)<br>	:dart: O projeto visa desenvolver uma aplicação para Análise de Dados de uma empresa de calçados com a importação de arquivos para segmentação e verificação das informações, a fim de auxiliar a gestão da empresa ao permitir visualizar gráficos e dados referentes à estas segmentações.<br>
 
 [<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/HEY_ALEXIA.png" /></center>](https://github.com/EquipeFatec)
 
