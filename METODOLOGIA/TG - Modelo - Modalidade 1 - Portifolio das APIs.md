@@ -22,6 +22,7 @@ Trabalhei no projeto da API ***Vantec*** com o Professor **Fabiano Sabha**.<br> 
 - Metodologia Scrum.
 
 ## :writing_hand:Contribuições Pessoais
+- Por ter sido a primeira vez com a metodologia Scrum e realizando um API. Foi um semestre de muito aprendizado! Como utilizamos o app inventor, através do desenvolvimento em blocos, nesse API eu criei a parte de grupos e a sua interação com a base de dados do firebase, que foi uma das maiores dificuldades encontradas por mim.
 ### Auxiliei na:
 - Integração das telas de grupo, com a base de dados do firebase;
 - Tela de grupos de passageiros ;
@@ -108,12 +109,12 @@ Trabalhei no projeto da API ***HEY ALEXIA*** com o Parceiro Acadêmico ![oracle]
 - SQL Developer.
 
 ## :writing_hand:Contribuições Pessoais
-No projeto, auxilie na parte do Backend.
+No projeto, auxilie na parte do Backend, criação do banco de dados e a sua integração com o front
 
 ### 	:brain:Hard Skills Efetivamente Desenvolvidas
 - Linguagem de programação Java;
 - Metodologia Scrum;
--
+- Linguagem PL/SQL
 
 ### :mechanic:Soft Skills Efetivamente Desenvolvidas
 - Autonomia;
