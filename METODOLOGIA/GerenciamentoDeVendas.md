@@ -23,7 +23,7 @@ A gestão de custos é mais uma parte dos processos que compõem a estratégia d
 Nesta seção, apresentam-se os procedimentos metodológicos adotados neste trabalho.
 
 ### 3.1.  Pesquisa de Campo ###
-As pesquisas foram realizadas atravéz de enquetes nas redes sociais antes da criação do aplicativo.
+As pesquisas foram realizadas atravéz de enquetes nas redes sociais antes da criação do aplicativo, com o intuito de coletar as maiores dificuldades dos vendedores em relação a finanças e gerenciamento.
 
 ### 3.2.  Pré-processamento ###
 Com o intuito de aumentar a qualidade e resultado no projeto, foi utilizado protótipos criados atravéz do figma, para uma pré-visualização do aplicativo.
