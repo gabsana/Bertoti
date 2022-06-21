@@ -18,3 +18,26 @@ neste tópico, aborda-se o conceito de Gestão de Custos
 A Gestão de Custos compõe todos os gastos e investimentos necessários para que a organização realize suas atividades e produza. Em especial, a gestão de custos serve para direcionar o planejamento estratégico de um negócio. A gestão de custos feita de maneira eficiente contribui para a saúde financeira da empresa.
 Todo gestor precisa estar inteirado sobre o tema para administrar os gastos e manter uma boa lucratividade para o negócio.
 A gestão de custos é mais uma parte dos processos que compõem a estratégia de uma empresa bem-sucedida. No entanto, é uma das mais importantes pois afeta todos os setores da empresa — em especial o financeiro.
+
+### 3.  Metodologia e Métodos ###
+Nesta seção, apresentam-se os procedimentos metodológicos adotados neste trabalho.
+
+### 3.1.  Pesquisa de Campo ###
+As pesquisas foram realizadas atravéz de enquetes nas redes sociais antes da criação do aplicativo.
+
+### 3.2.  Pré-processamento ###
+Com o intuito de aumentar a qualidade e resultado no projeto, foi utilizado protótipos criados atravéz do figma, para uma pré-visualização do aplicativo.
+
+[<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/Inicial%20%2B%20Doces.png" /></center>](https://www.figma.com/file/LFLG1OojzM38WN6EvfNs2q/Untitled?node-id=0%3A1)
+<br>[<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/Gastos.png" /></center>](https://www.figma.com/file/LFLG1OojzM38WN6EvfNs2q/Untitled?node-id=0%3A1)
+
+### 4.  Resultados e Discussões ###
+Nesta etapa se apresenta os resultados obtidos com a criação do app, interface gráfica e os testes realizados.
+
+
+### 4.1.  Resultados e Discussões ###
+
+
+### 5.  Conclusão ###
+Neste trabalho, apresentou-se um protótipo de aplicativo desenvolvido para auxiliar nas vendas de pessoas autônomas que estão iniciando no mercado de trabalho.
+
