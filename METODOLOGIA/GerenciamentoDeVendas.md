@@ -9,7 +9,7 @@ Sem um bom planejamento, a empresa pode, por exemplo, fechar contrato com um for
 Para que uma empresa tenha sucesso nos dias de hoje é preciso saber aliar tecnologia e vendas. A relação entre esses aspectos é fundamental, porque a tecnologia revolucionou a forma de fazer negócios e a atuação do vendedor.
 O mundo interconectado exige que os vendedores mudem a sua forma de fazer negócios. Nesse cenário, a tecnologia surge como um grande benefício, que aprimora a performance empresarial e os resultados obtidos.
 O software desenvolvido:
-Tendo em vista essa grande dificuldade dos pequenos empresários, foi realizado um software que auxilia na organização e controle de gastos, com o intuito de sanar parte dos problemas com o planejamento(custos) e é uma grande adaptação à tecnologia, que visa melhorar o desempenho da empresa. 
+Tendo em vista essa grande dificuldade dos pequenos empresários, está sendo criado um software que auxilia na organização e controle de gastos, com o intuito de sanar parte dos problemas com o planejamento(custos) que será uma grande adaptação à tecnologia, que visa melhorar o desempenho da empresa. 
 
 ### 2. Fundamentação teórica ###
 neste tópico, aborda-se o conceito de Gestão de Custos
