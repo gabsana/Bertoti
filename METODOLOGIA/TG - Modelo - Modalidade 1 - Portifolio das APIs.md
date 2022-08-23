@@ -6,6 +6,13 @@ RA:
 
 :student: Olá, meu nome é **Gabriel Sana**, sou estudante de **Banco de Dados** na **Fatec - SJC**.
 <br>Durante o desenvolvimento dos API's aprendi muito, desenvolvi tanto Hard Skills quanto Soft Skills e foi uma experiência muito interessante, levando os alunos a terem contato direto com o cenário atual de trabalho.<br> Ao enfrentar esses desafios aprendi que o mais importante é a persistência e o foco, para completar as atividades designadas. 
+<br>
+# Principais Conhecimentos
+***SQL***<br>
+Adquiri meus conhecimentos em SQL através das aulas na Fatec, pesquisas, atribuição e criaçao de roles, criaçao de tabelas, usuários. Em meus estudos utilizo o SQL Developer que foi muito utilizado durante a graduação 
+<br><br>***Projetos Integradores durante a graduação***<br>
+Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de "Projetos integradores". Um projeto integrador tem o objetivo de solucionar um problema do mundo real, utilizando os conhecimentos adquiridos durante a graduação.
+Abaixo todos estes projetos serão descritos, detalhando o problema, solução proposta (e entregue), e os aprendizamos extraídos de cada um deles.
 
 # :briefcase: Meus Projetos
 
@@ -122,8 +129,41 @@ No projeto, auxilie na parte do Backend, criação do banco de dados e a sua int
 - Agilidade;
 -
 
+### Em 2022-2
+Trabalhei no projeto da API ****** com O Cliente sendo o curso de ***Manutenção de Aeronaves*** da Fatec<br>	:dart: O projeto visa desenvolver uma aplicação web, que preencha os requisitos da norma STE, utilizada pelos fabricantes de aviões e componentes aeronáuticos, cuja proposta é escrever o manual técnico em ingles, não utilizando mais do que 900 palavras. Foi requisitado uma plataforma intuitiva, de forma a auxiliar na escrita dos manuais, mostrando as palavras que são "aprovadas" para realizar a escrita.
+<br>
 
-## Meus Principais Conhecimentos
+
+
+### :computer:Tecnologias Utilizadas
+Para a realização desse projeto, utilizamos o Github, para documentar o projeto, utilizamos o Jira para realizar as divisões de tarefas para os membros da equipe, Vue para fazer a parte do Front, linguagem SQL com o MySQL para realizar a criação do banco de dados, e por fim utilizamos a linguagem Java juntamente com o Spring Boot para realizar a parte do Back.<br>
+
+O ***Vue JS*** é um framework Javascript open source, é muito utilizado para criar aplicações single page (página única) e também para desenvolver vários tipos de interfaces, que possuem necessidades de maior interação e experiência mais valorosa para o usuário.<br>
+
+<br>O ***Spring Boot*** é um framework que torna fácil a criação de aplicações Spring autossuficientes e robustas, possibilitando a execução imediata. Contudo isso só é possível por conta da abordagem opinativa sobre a plataforma Spring e bibliotecas de terceiros, que permite ao desenvolvedor gastar o mínimo de tempo possível configurando o projeto, e sim codificando suas regras de negócio.
+
+Dentre as principais funcionalidades do Spring Boot podemos citar:
+
+A criação de aplicações Spring autossuficientes;
+Servidores web como o Tomcat, Jetty e Undertow embutidos;
+Prover starter’s opinativos para gerenciamento de dependências e build;
+Configuração automática de bibliotecas Spring e de terceiros sempre que possível;
+Funcionalidades para ambiente de produção como métricas, health checks e configurações externalizadas.
+Dispensar a necessidade de configuração XML e geração de código.
+<br>
+## :writing_hand:Contribuições Pessoais
+Nesse projeto, criei a arquitetura do banco de dados, com todas as tabelas e seus atributos
+
+### 	:brain:Hard Skills Efetivamente Desenvolvidas
+Durante o desenvolvimento do API, por utilizarmos uma metodologia diferente esse semestre (todos os membros do grupo trabalhando tanto com o backend quanto com o frontend),fui inserido a um novo nível de exigência para a contrução de um sistema web. Consegui me desenvolver muito e ampliar a minha rede de conhecimentos, aprendi a utilizar os frameworks Vue e o Spring Boot.
+
+
+### :mechanic:Soft Skills Efetivamente Desenvolvidas
+Por não estar familiarizado com os frameworks a serem utilizados, desenvolvi grande conhecimento e autonomia para realizar as tasrefas propostas. Durante a realização das tarefas foi exigido muito da participação da equipe como um todo, tanto para realizar as tarefas quando para auxiliar e tirar as duvidas do time, o trabalho em equipe, foi muito importante para a realização desse projeto. 
+- Autonomia;
+- Trabalho em equipe;
+- Agilidade;
+
 
 ## Contatos
  [<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/icons8-github-30.png" /></center>](https://github.com/gabsana)
